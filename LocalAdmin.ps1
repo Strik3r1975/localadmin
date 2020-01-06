@@ -1,4 +1,4 @@
-# Autor: Patrick Strijkers (aka Strik3R75)
+# Autor: Patrick Strijkers (aka Strik3R1975)
 # Date: 2020/01/01
 # Version 0.5
 # Last Mofified date: 2020/01/06
